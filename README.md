@@ -1,4 +1,3 @@
-# Dotfiles
+# dotfiles
 
-![CodespacesDotfiles](https://img.shields.io/badge/Github_Codespaces-Dotfiles-black.svg?style=for-the-badge&logo=Github&logoColor=white&labelColor=111111)
-![GithubSSH](https://img.shields.io/badge/Github_Codespaces-SSH_Connection-111111.svg?style=for-the-badge&logo=Github&logoColor=white&labelColor=333333)
+![CodespacesDotfiles](https://img.shields.io/badge/Github_Codespaces-Dotfiles_Configuration-black.svg?style=for-the-badge&logo=Github&logoColor=white&labelColor=111111)
