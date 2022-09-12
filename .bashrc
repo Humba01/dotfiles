@@ -14,6 +14,12 @@ alias npmup = "npm update"
 alias npmst = "npm init"
 alias nodevr = "node --version"
 
+# Typescript Commands Shortcuts
+alias tsvr = "ts --version"
+
+# C/C++ Commands Shortcuts
+alias cout = "gcc" 
+
 # PHP Commands Shortcuts
 alias phpvr = "php --version"
 alias phpsv = "php -S localhost:8000"
