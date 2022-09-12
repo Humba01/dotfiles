@@ -1,1 +1,1 @@
-
+alias gitv = "git --version"
