@@ -1,5 +1,6 @@
-echo "\033[1mDotfiles Scripts\033[0m\n" 
+echo -e "\n\033[32;1m====================================\033[0m\n"
+echo -e "\r\t\033[33;3m\033[1m|Dotfiles Scripts|\033[0m\033[0m\n" 
 
-echo "\033[35;1;3mEtapa 1 de 2 - Instalando extensões do Visual Studio Code\033[0m\n" & 
-exec code --uninstall-extension ./flawul-0.0.4-1.vsix & 
-exec code --install-extension ./flawul-0.0.4-1.vsix 
+sudo apt-get install vim
+
+echo -e "\033[32;1m====================================\033[0m\n"
